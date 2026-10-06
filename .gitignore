@@ -1,0 +1,13 @@
+# Visual Studio solution for C# .NET projects
+
+## Build
+
+```bash
+dotnet build
+```
+
+## Run
+
+```bash
+dotnet run
+```
